@@ -27,7 +27,7 @@ const SITE = {
 
   stats: [
     { value: "$10M+", label: "Total sales volume" },
-    { value: "$7M+",  label: "Sold in 2026" },
+    { value: "$8M+",  label: "Sold in 2026" },
     { value: "100%",  label: "Of my listings sold" },
     { value: "600+",  label: "Families helped by Nestlewood Realty" },
   ],
